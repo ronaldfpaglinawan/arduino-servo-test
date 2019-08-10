@@ -1,3 +1,8 @@
+/*
+  Created by Ronald Fornis Paglinawan on 27/07/19.
+  Copyright © 2019 Paglinawan Technologies. All rights reserved.
+*/
+
 #include <Servo.h>
 
 Servo myservo;  // create servo object to control a servo
